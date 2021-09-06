@@ -1,0 +1,48 @@
+body
+{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	color: rgb(34, 0, 128) ;
+	background-color: rgba(192, 192, 192, 0.466);
+	margin-left: 75px;
+	margin-right: 75px;
+}
+
+header, footer
+{
+	text-align: center;
+}
+
+h1, h2, h3
+{
+	font-family: Cambria, Cochin, Georgia, serif;
+	text-align: center;
+	line-height: 0px;
+}
+
+a
+{
+	text-decoration: none;
+	color: rgb(13, 90, 86);
+	font-weight: bold;
+}
+
+a:hover
+{
+	text-decoration: underline;
+	color: rgb(60, 92, 179);
+}
+
+figure
+{
+	text-align: center;
+}
+
+figcaption
+{
+	font-style: italic;
+}
+
+nav
+{
+	text-align: center;
+}
