@@ -1,0 +1,89 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    text-align: center;
+    margin-top: 360px;
+}
+.btn{
+    border: 1px solid #3498db;
+    background: none;
+    padding: 10px 20px;
+    font-size: 20px;S
+    font-family: "montserrat";
+    cursor: pointer;
+    margin: 10px;
+
+}
+.btn1,.btn2,.btn3,.btn4,.btn5,.btn6,.btn7,.btn8,.btn9,.btn10,.btn11,.btn12,.btn13{
+    color: #3498db;
+}
+.btn1:hover,.btn2:hover,.btn3:hover,.btn4:hover,.btn5:hover,.btn6:hover,.btn7:hover,.btn8:hover,.btn9:hover,.btn10:hover,.btn11:hover,.btn12:hover,.btn13:hover{
+    color: #ffffff;
+}
+.btn1{
+    position: absolute;
+    top: 190px;
+    right: 560px;
+}
+.btn2{
+    position: absolute;
+    top: 270px;
+    right: 735px;
+}
+.btn3{
+    position: absolute;
+    top: 345px;
+    right: 365px;
+}
+.btn4{
+    position: absolute;
+    top: 185px;
+    right: 720px;
+}
+.btn5{
+    position: absolute;
+    top: 265px;
+    right: 1100px;
+}
+.btn6{
+    position: absolute;
+    top: 198px;
+    right: 880px;
+}
+.btn7{
+    position: absolute;
+    top: 420px;
+    right: 675px;
+}
+.btn8{
+    position: absolute;
+    top: 330px;
+    right: 870px;
+}
+.btn9{
+    position: absolute;
+    top: 410px;
+    right: 858px;
+}
+.btn10{
+    position: absolute;
+    top: 220px;
+    right: 993px;
+}
+.btn11{
+    position: absolute;
+    top: 290px;
+    right: 1270px;
+}
+.btn12{
+    position: absolute;
+    top: 345px;
+    right: 995px;
+}
+.btn13{
+    position: absolute;
+    top: 280px;
+    right: 860px;
+}
